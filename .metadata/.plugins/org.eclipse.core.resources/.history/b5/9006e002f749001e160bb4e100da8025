@@ -1,0 +1,10 @@
+package model.entities;
+
+public class Reservetion {
+	
+	private Integer roomNumber;
+	private Date checkIn;
+	private Date checkOut;
+	
+
+}
